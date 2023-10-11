@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayomis&label=Profile%20views&color=0e75b6&style=flat" alt="aayomis" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aayomis" target="blank"><img src="https://img.shields.io/twitter/follow/aayomis?logo=twitter&style=for-the-badge" alt="aayomis" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Adeniji05349945" target="blank"><img src="https://img.shields.io/twitter/follow/aayomis?logo=twitter&style=for-the-badge" alt="aayomis" /></a> </p>
 
 - 🔭 I’m currently working on **an e-commerce website**
 
