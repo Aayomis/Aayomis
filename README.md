@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/Adeniji05349945" target="blank"><img src="https://img.shields.io/twitter/follow/aayomis?logo=twitter&style=for-the-badge" alt="aayomis" /></a> </p>
 
-- 🔭 I’m currently working on **an e-commerce website**
+- 🔭 I’m currently working on **a social website**
 
 - 🌱 I’m currently learning **Django and Machine Learning Using Tensorflow**
 
